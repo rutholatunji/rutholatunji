@@ -3,17 +3,17 @@ const portfolioProject = {
   description:
     "This is where you are now. I created a portfolio during the Introduction to Web development course provided by CFG. As you can see I learnt how to use Bootstrap, CSS and Javascript to customize my site!",
   image_url:
-    "https://uploads.codesandbox.io/uploads/user/b34d8067-4012-4554-95e0-7a6d2919422c/aeoW-profile3.png"
+    "https://rutholatunji.github.io/rutholatunji/images/newportfolio.jpg"
 };
 
 console.log(portfolioProject);
 
 const podcastNewsite = {
-  title: "Project 2 - Podcast Newsite",
+  title: "Project 2 - Newsbite",
   description:
-    "This is my second project. I created a webpage dedicated to podcasting news with my group members from the CFG course.",
+    "This is my second project. I created a webpage dedicated to podcasting news with my group members from the CFG course. See it live",
   image_url:
-    "https://uploads.codesandbox.io/uploads/user/b34d8067-4012-4554-95e0-7a6d2919422c/hv_h-spotify+lgo.png"
+    "https://rutholatunji.github.io/rutholatunji/images/project2.jpg"
 };
 
 console.log(podcastNewsite);
@@ -22,7 +22,7 @@ const project3 = {
   title: "Project 3",
   description: "I hope to make a webpage for the phone cases I sell on Etsy",
   image_url:
-    "https://uploads.codesandbox.io/uploads/user/b34d8067-4012-4554-95e0-7a6d2919422c/qp_X-inkwater.jpg"
+    "https://rutholatunji.github.io/rutholatunji/images/white%20flower.jpg"
 };
 
 console.log(project3);
@@ -39,7 +39,7 @@ const projects = [
       "https://uploads.codesandbox.io/uploads/user/b34d8067-4012-4554-95e0-7a6d2919422c/aeoW-profile3.png"
   },
   {
-    title: "Project 2 - Podcast Newsite",
+    title: "Project 2 - Newsbite",
     description:
       "This is my second project. I created a webpage dedicated to podcasting news with my group members from the CFG course.",
     image_url:
@@ -49,7 +49,7 @@ const projects = [
     title: "Project 3",
     description: "I hope to make a webpage for the phone cases I sell on Etsy",
     image_url:
-      "https://uploads.codesandbox.io/uploads/user/b34d8067-4012-4554-95e0-7a6d2919422c/qp_X-inkwater.jpg"
+      "https://rutholatunji.github.io/rutholatunji/images/white%20flower.jpg"
   }
 ];
 
