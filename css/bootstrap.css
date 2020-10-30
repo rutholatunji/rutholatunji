@@ -20,11 +20,7 @@ body {
 
 /* leaf3.jpg */
 
-.navbar .navbar-nav .nav-item {
-  display: flex;
-  justify-content: space-around;
-  flex-basis: auto;
-}
+
 
 main {
   background-color: hsla(0, 100%, 90%, 0.3);
