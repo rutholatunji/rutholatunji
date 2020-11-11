@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my portfolio, I built this during my 8-week Introduction to Web Development course. This was created to host thecurrent projects I'm working on.
+Welcome to my portfolio, I built this during my 8-week Introduction to Web Development course. This was created to host the current projects I'm working on.
 <!--
 **rutholatunji/rutholatunji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
