@@ -2,7 +2,7 @@
 
 Welcome to my portfolio, I built this during my 8-week Introduction to Web Development course. This was created to host the current projects I'm working on.
 
-- I used inline styling and bootstrap to customize my navigation bar.
+- I used inline styling and bootstrap to customize my navigation bar and main sections.
 - rgba CSS to make the main sections of my portfolio semi-transparent.
 
 Currently I'm working on adding additional functionality to my website, specifically adding more JavaScript to my form.
