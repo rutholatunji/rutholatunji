@@ -2,7 +2,7 @@ let alreadySubmitted = false;
 
 function appendModal(nameValue, topicValue, messageValue) {
   if (alreadySubmitted === true) {
-    //remove elements
+   
 
     const usedNameField = document.getElementById("nameField");
     usedNameField.remove();
@@ -14,19 +14,19 @@ function appendModal(nameValue, topicValue, messageValue) {
     usedMessageField.remove();
   }
 
-  // Add name text to modal
+ 
   const nameField = document.createElement("p");
   nameField.setAttribute("id", "nameField");
   nameField.textContent = nameValue;
   document.getElementById("nameDiv").appendChild(nameField);
 
-  // Add topic text to modal
+ 
   const topicField = document.createElement("p");
   topicField.setAttribute("id", "topicField");
   topicField.textContent = topicValue;
   document.getElementById("topicDiv").appendChild(topicField);
 
-  // Add message text to modal
+ 
   const messageField = document.createElement("p");
   messageField.setAttribute("id", "messageField");
   messageField.textContent = messageValue;
@@ -53,4 +53,4 @@ form.addEventListener("submit", function (event) {
   appendModal(nameField, topicField, messageField);
 });
 
-// Add event listener
+
